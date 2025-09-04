@@ -9,19 +9,19 @@
 ## My skills
 
 ### 🎨 Frontend
-[![Frontend](https://skillicons.dev/icons?i=angular,html,css&perline=10)](https://skillicons.dev)
+[![Frontend](https://skillicons.dev/icons?i=angular,html,css&perline=10)]()
 
 ### ⚙️ Backend
-[![Backend](https://skillicons.dev/icons?i=java,c,cs,arduino&perline=10)](https://skillicons.dev)
+[![Backend](https://skillicons.dev/icons?i=java,c,cs,arduino&perline=10)]()
 
 ### ☁️ Cloud
-[![Cloud](https://skillicons.dev/icons?i=azure&perline=10)](https://skillicons.dev)
+[![Cloud](https://skillicons.dev/icons?i=azure&perline=10)]()
 
 ### 🗄️ Databases
-[![Databaser](https://skillicons.dev/icons?i=mysql,mongodb&perline=10)](https://skillicons.dev)
+[![Databaser](https://skillicons.dev/icons?i=mysql,mongodb&perline=10)]()
 
 ### 🔧 Tools
-[![Verktyg](https://skillicons.dev/icons?i=idea,vscode,git,figma,matlab,visualstudio,ps&perline=10)](https://skillicons.dev)
+[![Verktyg](https://skillicons.dev/icons?i=idea,vscode,git,figma,matlab,visualstudio,ps&perline=10)]()
 
 
 
