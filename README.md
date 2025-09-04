@@ -21,7 +21,7 @@
 [![Databaser](https://skillicons.dev/icons?i=mysql,mongodb&perline=10)]()
 
 ### 🔧 Tools
-[![Verktyg](https://skillicons.dev/icons?i=idea,vscode,git,figma,matlab,visualstudio,ps&perline=10)]()
+[![Verktyg](https://skillicons.dev/icons?i=idea,vscode,git,figma,matlab,ps&perline=10)]()
 
 
 
