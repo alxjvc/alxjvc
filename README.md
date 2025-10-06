@@ -8,6 +8,9 @@
 <br />
 ## My skills
 
+### 🖥️ OS
+[![OS](https://skillicons.dev/icons?i=apple,linux,windows,&perline=10)]()
+
 ### 🎨 Frontend
 [![Frontend](https://skillicons.dev/icons?i=angular,html,css&perline=10)]()
 
