@@ -15,7 +15,7 @@
 [![Frontend](https://skillicons.dev/icons?i=angular,html,css&perline=10)]()
 
 ### ⚙️ Backend
-[![Backend](https://skillicons.dev/icons?i=java,c,cs,arduino&perline=10)]()
+[![Backend](https://skillicons.dev/icons?i=java,c,cs,.net,arduino&perline=10)]()
 
 ### ☁️ Cloud
 [![Cloud](https://skillicons.dev/icons?i=azure&perline=10)]()
