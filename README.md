@@ -12,7 +12,7 @@
 [![OS](https://skillicons.dev/icons?i=apple,linux,windows,&perline=10)]()
 
 ### 🎨 Frontend
-[![Frontend](https://skillicons.dev/icons?i=angular,html,css&perline=10)]()
+[![Frontend](https://skillicons.dev/icons?i=nextjs,angular,html,css&perline=10)]()
 
 ### ⚙️ Backend
 [![Backend](https://skillicons.dev/icons?i=java,c,cs,dotnet,arduino&perline=10)]()
